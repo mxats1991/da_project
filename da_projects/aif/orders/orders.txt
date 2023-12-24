@@ -1,0 +1,31 @@
+- OrderIdsMindboxId - Идентификатор платежа
+- OrderFirstActionIdsMindboxId - Идентификатор первого действия
+- OrderFirstActionDateTimeUtc - Дата и Время первого действия
+- OrderFirstActionChannelIdsMindboxId - Идентификатор канала привлечения первого действия
+- OrderFirstActionChannelIdsExternalId - Внешний идентификатор канала привлечения первого действия
+- OrderFirstActionChannelName - Название канала привлечения первого действия
+- OrderAreaIdsExternalId - Внешние идентификатор полей заказа
+- OrderTransactionIdsExternalId - Внешний идентификатор транзакции заказа
+- OrderDeliveryCost - Стоимость доставки заказа
+- OrderTotalPrice - Итоговая стоимость заказа
+- OrderIdsBackendID - Идентификатор бэкэнд заказа
+- OrderIdsWebsiteID - Идентификатор вэбсайта заказа
+- OrderCustomFieldsNewyear - Поле заказа новый год
+- OrderCustomFieldsNextPayDate - Поле заказа дата следующего платежа
+- OrderCustomFieldsRecurrent - Поле заказа повтор
+- OrderCustomFieldsRepayment - Поле заказа повторная оплата
+- OrderLineProductIdsWebsite - Поле заказа вебсайт продукта
+- OrderLineProductName - Поле название продукта
+- OrderLineQuantity - Поле количество
+- OrderLineBasePricePerItem - Поле цена за единицу
+- OrderLinePriceOfLine - Поле цена линии
+- OrderLineStatusIdsExternalId - Идентификатор статуса заказа (внешний)
+- OrderLineGiftCardAmount - Поле количество подарочных карт
+- OrderLineGiftCardStatusIdsSystemName - Системное название поле подарочная карта
+- OrderLineNumber - Заказ номер линии
+- OrderLineLineNumber - Заказ номер номер линии
+- OrderLineId - Идентификатор линии заказа
+- OrderLineLineId - Идентификатор линии линии заказа
+- OrderCustomerIdsBackendID - Идентификатор бэкэнд пользователя
+- OrderCustomerIdsWebsiteID - Идентификатор вебсайта пользователя
+- OrderCustomerIdsMindboxId - Идентификатор пользователя mindbox (для связи таблиц)

@@ -1,0 +1,13 @@
+- CustomerActionRootActionIdsMindboxId - Администраторский столбец
+- CustomerActionRootActionActionTemplateIdsSystemName - Администраторский столбец
+- CustomerActionRootActionActionTemplateName - Администраторский столбец
+- CustomerActionMailingAction - Статус отправки рассылки
+- CustomerActionMailingName - Название акции в рассылке
+- CustomerActionMailingIdsSystemName - Системное название акции в рассылке
+- CustomerActionMailingIdsId - Идентификатор рассылки
+- CustomerActionMailingIdsVariantNum - Вариант рассылки
+- CustomerActionMailingLink - Ссылка в рассылке
+- CustomerActionMailingNotSentReasonIdsSystemName - Системное название причины неотправки рассылки
+- CustomerActionMailingNotSentReasonName - Название причины неотправки рассылки
+- CustomerActionMailingNotDeliveredReasonIdsSystemName - Системное название причины недоставки рассылки
+- CustomerActionMailingNotDeliveredReasonName - Название причины недоставки рассылки

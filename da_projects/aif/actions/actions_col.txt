@@ -1,0 +1,18 @@
+- CustomerActionIdsMindboxId - Идентификатор действия пользователя \n
+- CustomerActionActionTemplateIdsSystemName - Системное имя действия пользователя \n
+- CustomerActionActionTemplateName - Имя действия пользователя \n
+- CustomerActionDateTimeUtc - Дата и время действия пользователя \n
+- CustomerActionCreationDateTimeUtc - Дата и время создания действия пользователя \n
+- CustomerActionBrandIdsSystemName - Системное имя бренда \n
+- CustomerActionChannelIdsMindboxId - Идентификатор канала привлечения \n
+- CustomerActionChannelName - Имя канала привлечения пользователя \n
+- CustomerActionChannelIdsExternalId - Внешний идентификатор канала привлечения пользователя \n
+- CustomerActionChannelIdsSystemName - Системное имя канала привлечения пользователя \n
+- CustomerActionChannelUtmCampaign - Название рекламной кампании \n
+- CustomerActionChannelUtmSource - Ресурс, на котором проводится рекламная кампания \n
+- CustomerActionChannelUtmMedium - неопознанное системное поле \n
+- CustomerActionChannelUtmContent - Контент рекламного канала \n
+- CustomerActionChannelUtmTerm - неопознанное системное поле \n
+- CustomerActionCustomerIdsBackendID - Идентификатор для бэкэнда \n
+- CustomerActionCustomerIdsWebsiteID - Идентификатор для веб сайта \n
+- CustomerActionCustomerIdsMindboxId - Идентификатор пользователя (mindbox)
